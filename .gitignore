@@ -1,4 +1,2 @@
 /target
 .vscode
-.flamegraph.svg
-perf.data
